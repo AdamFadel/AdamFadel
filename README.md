@@ -1,8 +1,8 @@
 # Hi, I'm Adam Fadel 👋
 
-**CS & AI student building toward backend software engineering, applied AI systems, and computer vision applications.**
+**CS & AI student building backend and applied AI systems with a focus on LLM/RAG applications.**
 
-I'm studying Computer Science & Artificial Intelligence in Egypt and working toward becoming an AI-focused software engineer who builds production-style AI systems with backend engineering, cloud/MLOps, and computer vision skills.
+I'm studying Computer Science & Artificial Intelligence in Egypt and working toward becoming an AI-focused backend/software engineer who builds production-style AI systems using backend engineering, cloud/MLOps, and practical LLM/RAG application skills.
 
 ---
 
@@ -10,31 +10,51 @@ I'm studying Computer Science & Artificial Intelligence in Egypt and working tow
 
 - Computer Science & Artificial Intelligence student
 - Preparing for Software Engineering and Backend Engineering roles
-- Building practical backend, applied AI, and computer vision projects
-- Currently learning Git/GitHub, FastAPI, PostgreSQL, Docker, and cloud deployment
-- Interested in applied AI systems, computer vision, backend engineering, and MLOps
+- Building practical backend and applied AI projects
+- Currently focused on Git/GitHub, FastAPI, PostgreSQL, Docker, and cloud deployment
+- Interested in LLM applications, RAG systems, AI agents, backend engineering, and cloud/MLOps
 
 ---
 
-## Career Target
+## Career Direction
 
-I'm preparing for **Software Engineer** and **Backend Engineer** roles, with long-term growth toward applied AI systems, ML platform engineering, and computer vision applications.
-
-My specialization direction:
+My current career direction is:
 
 - **Primary:** Backend / Software Engineering with Applied AI
 - **Secondary:** Cloud / MLOps / AI Systems
-- **Niche:** Computer Vision / Visual AI Engineering
+- **Main AI Focus:** LLM Applications / RAG / AI Agents
 
 Long-term positioning:
 
-> AI-focused software engineer who builds production AI systems, with computer vision as a specialization and cloud/MLOps as the deployment layer.
+> AI-focused backend/software engineer who builds production LLM/RAG applications and AI systems, with cloud/MLOps as the deployment layer.
+
+I may also explore smaller projects in **AI Security**, **Computer Vision**, and **AI Data Systems**, but my main focus is backend + applied AI with LLM/RAG systems.
+
+---
+
+## Roadmap
+
+```mermaid
+flowchart TD
+    A["CS & AI Foundation<br/>ML • DL • NLP • Algorithms"] 
+    --> B["Primary Path<br/><b>Backend / Software Engineering</b><br/>FastAPI • PostgreSQL • APIs • Testing"]
+
+    B --> C["Secondary Layer<br/><b>Cloud / MLOps / AI Systems</b><br/>Docker • AWS • Deployment • Monitoring"]
+
+    C --> D["Main AI Focus<br/><b>LLM Applications / RAG / AI Agents</b><br/>LLM APIs • Vector DBs • RAG • Tool Use"]
+
+    D --> E["Target Identity<br/><b>AI-focused Backend Software Engineer</b><br/>Building production-style AI systems"]
+
+    D -. optional .-> F["AI Security<br/>Secure AI Systems"]
+    D -. optional .-> G["Computer Vision<br/>Visual AI"]
+    D -. optional .-> H["AI Data Systems<br/>Data Engineering for AI"]
+```
 
 ---
 
 ## Tech Stack
 
-I use the first group in coursework and projects, and I am actively building practical depth in the second group.
+I separate tools I currently use from tools I am actively learning so my profile stays accurate.
 
 ### Currently Working With
 
@@ -45,9 +65,8 @@ I use the first group in coursework and projects, and I am actively building pra
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-### Actively Learning / Building Toward
+### Actively Learning
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -57,10 +76,16 @@ I use the first group in coursework and projects, and I am actively building pra
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-> Technologies in the "Actively Learning / Building Toward" section are part of my active roadmap, not claimed mastery.
+### Applied AI Focus
+
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-111827?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4F46E5?style=flat&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-0F766E?style=flat&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat&logoColor=white)
+
+> Tools in the "Actively Learning" and "Applied AI Focus" sections are part of my roadmap and project development, not claimed mastery.
 
 ---
 
@@ -72,13 +97,13 @@ I use the first group in coursework and projects, and I am actively building pra
 
 A backend training project for managing courses, notes, flashcards, tags, and users.
 
-**Goal:** Strengthen backend fundamentals through REST APIs, database design, authentication, and clean project structure.
+**Goal:** Build strong backend fundamentals through REST APIs, database design, authentication, testing, and clean project structure.
 
 **Planned stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Pytest
 
 ---
 
-### Project Roadmap
+### Main Project Roadmap
 
 #### AI Document Intelligence Platform
 
@@ -88,32 +113,46 @@ A backend + applied AI platform for document understanding, PDF upload, summariz
 
 - Backend API development
 - Database-backed application design
-- Applied AI product integration
+- LLM application development
 - Retrieval-Augmented Generation
 - Document processing
+- Vector database integration
 - Deployment-ready project structure
 
 **Planned stack:** FastAPI · PostgreSQL · React/Next.js · LLM APIs · Vector Database · Docker · Cloud Deployment
 
 ---
 
-#### Safety / PPE Computer Vision System
+#### AI Agent / Workflow Automation System
 
-A computer vision system for detecting safety equipment such as face masks or PPE in images and video streams using object detection models served through a backend inference API.
+A backend-based AI agent system focused on tool use, API integration, workflow automation, and production-style AI system design.
 
 **What this project will demonstrate:**
 
-- Computer vision model usage
-- Object detection with YOLO
-- Backend inference APIs
-- Image/video processing
-- Production-style AI system design
+- AI agent workflow design
+- Tool/function calling
+- Backend integration
+- API orchestration
+- Logging and monitoring basics
+- Practical AI system thinking
 
-**Planned stack:** Python · OpenCV · YOLO · FastAPI · React · Docker · Cloud Deployment
+**Planned stack:** FastAPI · PostgreSQL · React/Next.js · LLM APIs · Tool Calling · Docker · Cloud Deployment
 
 ---
 
-### Existing Work
+## Optional Exploration
+
+I may build smaller projects later to test my interest in:
+
+- **AI Security / Secure AI Systems**
+- **Computer Vision / Visual AI**
+- **AI Data Systems / Data Engineering for AI**
+
+These are exploration areas. My main AI focus remains **LLM Applications / RAG / AI Agents**.
+
+---
+
+## Existing Work
 
 #### Feature Selection Using Genetic Algorithm
 
@@ -136,9 +175,9 @@ A university group project applying genetic algorithms to feature selection for 
 | 3 | PostgreSQL and database-backed applications | Next |
 | 4 | React / Next.js basics for project demos | Upcoming |
 | 5 | Applied AI systems and RAG pipelines | Upcoming |
-| 6 | Docker and deployment | Upcoming |
-| 7 | AWS / cloud fundamentals | Upcoming |
-| 8 | Computer vision with OpenCV and YOLO | Upcoming |
+| 6 | LLM applications and AI agents | Upcoming |
+| 7 | Docker and deployment | Upcoming |
+| 8 | AWS / cloud fundamentals | Upcoming |
 | 9 | LeetCode and SWE interview preparation | Ongoing |
 
 ---
@@ -148,14 +187,14 @@ A university group project applying genetic algorithms to feature selection for 
 - Learning Git/GitHub professionally
 - Building backend APIs with FastAPI
 - Improving problem-solving through LeetCode
-- Cleaning and organizing my GitHub profile
 - Building projects that prove practical engineering ability
+- Preparing to build production-style LLM/RAG applications
 
 ---
 
 ## Connect
 
-I'm open to connecting with people working in software engineering, backend systems, applied AI, computer vision, and cloud/MLOps.
+I'm open to connecting with people working in software engineering, backend systems, applied AI, LLM/RAG applications, AI agents, and cloud/MLOps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam%20Fadel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-fadel)
 [![GitHub](https://img.shields.io/badge/GitHub-AdamFadel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdamFadel)
